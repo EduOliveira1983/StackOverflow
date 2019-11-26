@@ -1,0 +1,11 @@
+C:\Users\TTC1776\source\repos\StackOverflow\423320\bin\Debug\423320.exe.config
+C:\Users\TTC1776\source\repos\StackOverflow\423320\bin\Debug\423320.exe
+C:\Users\TTC1776\source\repos\StackOverflow\423320\bin\Debug\423320.pdb
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\423320.csprojAssemblyReference.cache
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\_423320.Form1.resources
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\_423320.PDVForm.resources
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\_423320.Properties.Resources.resources
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\423320.csproj.GenerateResource.cache
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\423320.csproj.CoreCompileInputs.cache
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\423320.exe
+C:\Users\TTC1776\source\repos\StackOverflow\423320\obj\Debug\423320.pdb
